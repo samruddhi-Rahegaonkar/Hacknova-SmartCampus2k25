@@ -1,5 +1,5 @@
 🚀 Hacknova SmartCampus
-
+<b>Team name : Ctrl+Alt+Defeat</b>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+SmartCampus!;Streamlining+Campus+Life;Empowering+Students+and+Faculty" alt="Typing SVG" /> </p>
 SmartCampus is an innovative mobile application designed to streamline and modernize campus operations, making life easier for both students and faculty. Built with a user-centric approach, the app centralizes essential academic and administrative functionalities into a seamless digital experience.
 <b>📱 Features : </b>
